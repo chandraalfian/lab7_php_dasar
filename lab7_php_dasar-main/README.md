@@ -1,10 +1,10 @@
 # lab7_php_dasar
 
-NAMA : Ahmad Alfian chandra
+NAMA : JIHAN HABIBAH
 
-KELAS : TI 20 A2
+KELAS : TI 19 B2
 
-NIM : 311910336
+NIM : 311910094
 
 TUGAS PRAKTIKUM 7
 
